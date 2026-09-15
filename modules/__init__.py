@@ -1,0 +1,1 @@
+# Arquivo necessário para o reconhecimento de imports de outros arquivos no python

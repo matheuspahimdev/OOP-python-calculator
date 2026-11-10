@@ -34,3 +34,6 @@ while True:
 
     # Dá output do resultado após a execução do método de operação do objeto da classe do outro arquivo
     print(objOperacao.operation())
+
+    if input("Deseja fazer outra operação? (s/n): ").lower() != "s":
+        break
